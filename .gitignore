@@ -1,0 +1,7 @@
+.vscode
+*.orig
+*.rej
+larbs.pdf
+patches
+util.o
+*.o
